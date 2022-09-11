@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/LorenaRuiz0717/tooltodo/static/css/main.d0f6d9d7.css",
-    "main.js": "/LorenaRuiz0717/tooltodo/static/js/main.2f7aa581.js",
-    "static/media/logo.jpg": "/LorenaRuiz0717/tooltodo/static/media/logo.382ee2d3b72f518f5c63.jpg",
-    "index.html": "/LorenaRuiz0717/tooltodo/index.html",
-    "main.d0f6d9d7.css.map": "/LorenaRuiz0717/tooltodo/static/css/main.d0f6d9d7.css.map",
-    "main.2f7aa581.js.map": "/LorenaRuiz0717/tooltodo/static/js/main.2f7aa581.js.map"
+    "main.css": "/LorenaRuiz0717/QuicklyNotes/static/css/main.d0f6d9d7.css",
+    "main.js": "/LorenaRuiz0717/QuicklyNotes/static/js/main.05494a36.js",
+    "static/media/logo.jpg": "/LorenaRuiz0717/QuicklyNotes/static/media/logo.382ee2d3b72f518f5c63.jpg",
+    "index.html": "/LorenaRuiz0717/QuicklyNotes/index.html",
+    "main.d0f6d9d7.css.map": "/LorenaRuiz0717/QuicklyNotes/static/css/main.d0f6d9d7.css.map",
+    "main.05494a36.js.map": "/LorenaRuiz0717/QuicklyNotes/static/js/main.05494a36.js.map"
   },
   "entrypoints": [
     "static/css/main.d0f6d9d7.css",
-    "static/js/main.2f7aa581.js"
+    "static/js/main.05494a36.js"
   ]
 }

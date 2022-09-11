@@ -1,0 +1,49 @@
+.formTask{
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    /* justify-content: center; */
+    align-items: center;
+    border: 1px solid #1a425d;
+    background-color: rgba(222, 226, 230, 0.9);
+    border-radius: 5px;
+}
+
+.titleTask{
+    margin-top:10px;
+    font-size: 30px;
+    color: #1a425d;
+    font-weight: 700;
+}
+
+.textAreaTask{
+    width: 250px;
+    height: 200px;
+    margin: 15px;
+    font-size: 20px;
+    font-family:'Montserrat', Arial, Helvetica, sans-serif;
+    border: 1px solid #1a425d;
+    border-radius: 5px;
+    background-color: rgba(222, 226, 230, 0.9);;
+}
+
+.textAreaTask:focus{
+    outline-color: #71c32f;
+}
+
+.buttonModal{
+    background-color: #1a425d;
+    color: aliceblue;
+    width: 120px;
+    height: 40px;
+    font-weight: 700;
+    font-size: 15px;
+    font-family:'Montserrat', Arial, Helvetica, sans-serif;
+    margin: 3px;
+    border-radius: 5px;
+}
+
+.containerButton{
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 100px;
+}
+
+.appName{
+    font-size: 20px;
+    color:#1a425d;
+    /* text-shadow: 500px 500px 500px ; */
+    text-shadow:1px -1px rgba(52, 218, 31, 0.30);
+}
+
